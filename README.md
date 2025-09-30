@@ -1,5 +1,6 @@
 
 # Installation:
+https://f-droid.org/repo/com.termux_1022.apk
 1. Download & install late
 ```https://f-droid.org/repo/com.termux_1022.apk
 2. Get Termux ready:
