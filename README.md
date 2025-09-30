@@ -3,6 +3,8 @@ This is a WIP repo for pre-compiled ccminer binaries with latest Termux(v0.118.0
 
 https://idrshare.net/r/878003879663
 
+https://idrshare.net/g9340311862
+
 # **`Disclaimer: I accept no warranties or liabilities on this repo. Do it at your own risk!!!`**
 
 # **`This is for any ARMv8 device`**
