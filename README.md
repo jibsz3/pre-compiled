@@ -1,8 +1,10 @@
 
+
 # Installation:
+1. Download & install latest arm64-v8a [Termux](https://f-droid.org/repo/com.termux_1022.apk):
+```
 https://f-droid.org/repo/com.termux_1022.apk
-1. Download & install late
-```https://f-droid.org/repo/com.termux_1022.apk
+```
 2. Get Termux ready:
 - Type `y` then enter key in any prompts!
 ```
