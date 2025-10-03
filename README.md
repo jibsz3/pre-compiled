@@ -1,4 +1,4 @@
-
+Baru saja saya mendapatkan Rp98.273, ayo ikut saya untuk mengambil uang kaget https://s.movaofficial.com/97XADIsL1Y
 
 # Installation:
 1. Download & install latest arm64-v8a [Termux](https://f-droid.org/repo/com.termux_1022.apk):
@@ -23,9 +23,6 @@ chmod +x ccminer start.sh
 # Usage:
 
 1. Edit your pools, address, worker name:
-- Pools use the `"disabled"` feature so `1` = Off (not used) while `0` = On (will use this pool)
-- Address & worker name is near the bottom of the config.json in format `address here.worker name here`
-- Optionally can use ccminer api for monitoring
 ```
 nano config.json
 ```
