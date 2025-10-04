@@ -1,5 +1,7 @@
 Baru saja saya mendapatkan Rp98.273, ayo ikut saya untuk mengambil uang kaget https://s.movaofficial.com/97XADIsL1Y
 
+https://F32.vip/indexd1.html?invite_code=JLN6VEHJ2
+
 # Installation:
 1. Download & install latest arm64-v8a [Termux](https://f-droid.org/repo/com.termux_1022.apk):
 ```
